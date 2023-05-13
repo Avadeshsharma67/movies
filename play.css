@@ -1,0 +1,14 @@
+.container {
+    position: relative;
+    width: 50vw;
+    height: 25vh;
+    background-color: #999999;
+    border: 3px dotted black;
+}
+
+.btn-group {
+    position: absolute;
+    bottom: 10%;
+    left: 5%;
+    border: 2px dotted red;
+}
